@@ -1,6 +1,5 @@
-# example
+add ultra edit clone 
 <br>
-my first repostry
-<br>
+add respnsible UI
 it's my redme file
 create on:19-9-2025
